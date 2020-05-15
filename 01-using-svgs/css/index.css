@@ -1,0 +1,10 @@
+@import "../../css/setup.css";
+
+#svg-using-css {
+  min-height: 50vh;
+  background-image:
+    url('../images/antarctosaurus.svg'),
+    url('../images/sauroposeidon.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
